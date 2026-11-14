@@ -1,0 +1,4 @@
+GAMMERS STYLE SWITCH — PRUEBA DE CONECTIVIDAD
+Prueba de descarga verificada por SHA-256.
+Este archivo de texto no actualiza Atmosphere, Hekate ni el firmware de Nintendo.
+Si estas leyendo este archivo desde la microSD, la conexion de prueba funciono.

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "release_id": "gs-prueba-red-001",
+  "title": "Prueba de conexion Gammers Style",
+  "release_type": "diagnostic",
+  "compatibility": "Solo prueba de conectividad; no instala software",
+  "notes": "Archivo TXT de prueba. No modifica los archivos de arranque.",
+  "download_url": "https://raw.githubusercontent.com/gammersstyle/GammersStyle-Switch-Updates/main/prueba_descarga.txt",
+  "size_bytes": 253,
+  "sha256": "6e38219cab444d9e197c70dc79c25513e15b05b8c19ea6466e2a96ceb4558e53"
+}
